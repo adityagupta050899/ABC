@@ -1,0 +1,38 @@
+ALERT NARRATIVE
+
+Alert #: A-1 Create Date: 9/30/2024
+
+
+Focal Entity: John Diamond
+
+CIN: C-1
+
+Review Scope: 9/2/2024 – 9/14/2024
+
+
+Determination / Rationale:
+
+Based on a review of internal and external sources, the reviewed transactions appear to potential suspicious.
+
+Cash Structuring $10k
+
+Rapid Movements of Funds
+
+Large Wire to High Risk Jurisdiction
+
+The customer made 12 cash deposits for $9,000.00 each, totaling $108,000.00 over the course of 12 consecutive days between 9/2/2024 and 9/13/2024. According to KYC information, the customer is employed in the manufacturing industry, which is not a cash-intensive business and investigation of internal and external sources did not identify a legitimate source of funds for these cash deposits. On 9/14/2024, the customer then sent a wire transfer for $105,000.000 to ACME Investment Management in the Cayman Islands. The customer’s KYC information does not indicate any apparent connection between either ACME Investment Management or the Cayman Islands.
+
+
+A SAR filing is recommended for the following reasons:
+
+The customer apparently made 12 structured cash deposits for $9,000 each over 12 consecutive days without a legitimate source of funds.
+
+Shortly after make the cash deposits, the customer initiated a wire transfer to an unrelated company with which the customer has no apparent connection.
+
+There is no apparent lawful economic purpose for the customer’s activity.
+
+The involvement of the high risk jurisdiction of the Cayman Islands.
+
+
+
+

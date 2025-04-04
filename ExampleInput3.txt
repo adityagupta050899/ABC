@@ -1,0 +1,31 @@
+ALERT NARRATIVE
+
+Alert #: A-5 Create Date: 10/15/2024
+
+
+Focal Entity: JDF Industries
+
+CIN: C-4
+
+Review Scope: 9/3/2024 – 9/7/2024
+
+
+Determination / Rationale:
+
+Based on a review of internal and external sources, the reviewed transactions appear to potential suspicious.
+
+Large Wire to High Risk Jurisdiction
+
+Between 9/3/2024 – 9/7/2024, the customer received two (2) wires totaling $1,789,654.00. The originators of these wires included Venezuela Law in the Cayman Islands and the customer themselves. Outgoing activity during that time consisted of three (3) wires totaling $9,238,475.00. The beneficiaries were the customer themselves, Venezuela Oil in Venezuela, and Aramco in Saudi Arabia.
+
+The customer generated an alert because the customer received a wire transfer from Venezuela Law for $789,654, transferred $1,000,000 in funds to an external account at Citibank, received the funds back from the external account, and then sent those funds to Venezuela Oil within a short period of time. The customer also alerted because they separately sent a wire transfer for $7,238,475.00 to Aramco.
+
+According to KYC information, the customer is an oil refiner with no link to the Cayman Islands or Venezuela. KYC information indicates that the customer has an existing relationship with Aramco. The alert related to the wire transfer to Aramco is reasonable and in-line with the expected activity for the customer. However, an investigation of internal and external sources did not identify a reasonable explanation for the remaining customer activity and round dollar transaction are also unusual in normal course of business. 
+
+A SAR filing is recommended for the following reasons:
+
+The ultimate originator of the incoming activity and the ultimate beneficiary of the outgoing wire have no apparent connection to the customer.
+
+There is no apparent lawful economic purpose for the pattern of activity that occurred.
+
+The customer received a wire from the Cayman Islands with which the customer has no apparent connection. Shortly after receiving the wire, the customer initiated a wire transfer to an unrelated company in Venezuela with which the customer has no apparent connection.

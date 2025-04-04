@@ -1,0 +1,30 @@
+Transaction ID,Transaction Date,Transaction Type,Customer ID,Account,Incoming/Outgoing,Amount,Originator,Originator Country,Beneficiary,Beneficiary Country
+T-1,45537,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-2,45538,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-3,45539,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-4,45540,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-5,45541,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-6,45542,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-7,45543,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-8,45544,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-9,45545,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-10,45546,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-11,45547,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-12,45548,Cash Deposit,C-1,ACC-1,Incoming,9000,John Diamond,US,John Diamond,US
+T-13,45549,Wire,C-1,ACC-1,Outgoing,105000,John Diamond,US,ACME Investment Management,KY
+T-14,45537,Wire,C-2,ACC-2,Incoming,200000,US Processing,US,RDF Plumbing - ACC2,US
+T-15,45542,ACH,C-2,ACC-2,Incoming,179000,JD Import and Export,UK,RDF Plumbing - ACC2,US
+T-16,45544,Wire,C-2,ACC-2,Incoming,552665,Cos Cob Fishery,US,RDF Plumbing - ACC2,US
+T-17,45545,Wire,C-2,ACC-2,Incoming,10563,HK Industries,HK,RDF Plumbing - ACC2,US
+T-18,45558,Wire,C-2,ACC-2,Incoming,1598564,Palmetto Translation Services,CH,RDF Plumbing - ACC2,US
+T-19,45549,Internal Transfer,C-2,ACC-2,Outgoing,2286712.8,RDF Plumbing - ACC2,US,RDF Plumbing - ACC3,US
+T-20,45549,Internal Transfer,C-2,ACC-3,Incoming,2286712.8,RDF Plumbing - ACC2,US,RDF Plumbing - ACC3,US
+T-21,45550,Wire,C-2,ACC-3,Outgoing,2400000,RDF Plumbing - ACC3,US,IRS Legal Services,CH
+T-22,45536,Cash Deposit,C-3,ACC-4,Incoming,8000,Kyle Strong,US,Kyle Strong,US
+T-23,45537,Cash Deposit,C-3,ACC-4,Incoming,8000,Kyle Strong,US,Kyle Strong,US
+T-29,45545,Wire,C-3,ACC-4,Outgoing,14000,Kyle Strong,US,Kyle Strong at HK Bank,HK
+T-30,45538,Wire,C-4,ACC-5,Incoming,789654,Venezuela Law,KY,JDF Industries,US
+T-31,45539,Wire,C-4,ACC-5,Outgoing,1000000,JDF Industries,US,JDF Industries - Citibank Account,US
+T-32,45540,Wire,C-4,ACC-5,Incoming,1000000,JDF Industries - Citibank Account,US,JDF Industries,US
+T-33,45541,Wire,C-4,ACC-5,Outgoing,1000000,JDF Industries,US,Venezuela Oil,VE
+T-34,45542,Wire,C-4,ACC-5,Outgoing,7238475,JDF Industries,US,ARAMCO,SA

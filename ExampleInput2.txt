@@ -1,0 +1,32 @@
+ALERT NARRATIVE
+
+Alert #: A-2 Create Date: 9/30/2024
+
+
+Focal Entity: RDF Plumbing
+
+CIN: C-2
+
+Review Scope: 9/2/2024 – 9/23/2024
+
+
+Determination / Rationale:
+
+Based on a review of internal and external sources, the reviewed transactions appear to potential suspicious.
+
+Concentration Account
+
+Rapid Movements of Funds
+
+
+Between 9/2/2024 and 9/10/2024, the customer received three (3) wires totaling $763,228. The originators of these wires included, US processing (US), Cos Cob Fishery (US) and HK Industries (Hong Kong). The customer also received one (1) ACH credit from JD Import and Export, located in the UK, for $179,000.00. Outgoing activity included an internal transfer to a related account (ACC-3) for $2,286,712.80 on 9/14/2024. On 9/15/2024 a wire for $2,400,000.00 was sent from ACC-3 to IRS Legal Services located in China. Subsequently, on 9/23/2024, the customer received a wire from Palmetto Translation Services, located in China, for $1,598,564.00. According to KYC information, the customer is a plumbing service with no link to China nor Hong Kong. KYC information also indicates beneficiaries and originators of transactions should be located only in the US. The customer is expected to receive $200,000 monthly and the customer’s expected outgoing activity is also $200,000. An investigation of internal and external sources did not identify a reasonable explanation for customer activity and round dollar transaction are also unusual in normal course of business. 
+
+
+A SAR filing is recommended for the following reasons:
+
+The originators of the incoming activity and the beneficiary of the outgoing wire have no apparent connection to the customer.
+
+There is no apparent lawful economic purpose for the excessive number of originators and subsequent outgoing wire.
+
+Shortly after receiving wires and ACH, the customer initiated a wire transfer to an unrelated company in China with which the customer has no apparent connection. The customer then received a wire from China with which the customer has no apparent connection
+
