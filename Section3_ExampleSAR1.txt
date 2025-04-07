@@ -1,0 +1,4 @@
+Internal LLM NY KYC information identified Diamond with the following details: DOB: 4/20/1988; SSN: 123-45-6789; address: 277 Park Ave., New York, NY, 12345; and occupation: manufacturing. There is no apparent connection between Diamond and ACME or the Cayman Islands. 
+
+
+External research was unable to conclusively identify a line of business for ACME.
