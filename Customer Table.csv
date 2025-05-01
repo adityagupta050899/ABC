@@ -1,5 +1,0 @@
-Customer Type,Customer ID,Customer Name,Customer Line of Business,Customer Expected Products,Customer Expected Geographies,Customer Incorporation/Residence Country
-Individual,C-1,John Diamond,Manufacturing,ACH; Wire,US,US
-Business,C-2,RDF Plumbing,Plumbing Services,ACH; Wire; Cash Deposit; Internal Transfer,US,US
-Individual,C-3,Kyle Strong,Service Industry,ACH; Wire; Cash Deposit; Internal Transfer,US; HK,HK
-Business,C-4,JDF Industries,Oil refinement,ACH; Wire,US; SA,US
