@@ -1,0 +1,49 @@
+Alert ID,Detection ID,Alert Date,Customer ID,Rule Name,Alerted Transactions per Detection,False Positive / True Positive,Alert Narrative
+A-1,A-1-1,45566,C-1,Cash Structuring $10k,T-1,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-1,45566,C-1,Cash Structuring $10k,T-2,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-1,45566,C-1,Cash Structuring $10k,T-3,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-1,45566,C-1,Cash Structuring $10k,T-4,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-1,45566,C-1,Cash Structuring $10k,T-5,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-1,45566,C-1,Cash Structuring $10k,T-6,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-1,45566,C-1,Cash Structuring $10k,T-7,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-2,45566,C-1,Cash Structuring $10k,T-7,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-2,45566,C-1,Cash Structuring $10k,T-8,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-2,45566,C-1,Cash Structuring $10k,T-9,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-2,45566,C-1,Cash Structuring $10k,T-10,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-2,45566,C-1,Cash Structuring $10k,T-11,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-2,45566,C-1,Cash Structuring $10k,T-12,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-1,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-2,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-3,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-4,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-5,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-6,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-7,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-8,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-9,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-10,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-11,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-12,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-3,45566,C-1,Rapid Movements of Funds,T-13,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-1,A-1-4,45566,C-1,Large Wire to High Risk Jursidiction,T-13,True Positive,No reasonable explanation for customer activity. Customer not in cash intensive business. No declared nexus with KY.
+A-2,A-2-1,45566,C-2,Concentration Account,T-14,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-1,45566,C-2,Concentration Account,T-15,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-1,45566,C-2,Concentration Account,T-16,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-1,45566,C-2,Concentration Account,T-17,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-1,45566,C-2,Concentration Account,T-20,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-2,45566,C-2,Rapid Movement of Funds,T-14,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-2,45566,C-2,Rapid Movement of Funds,T-15,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-2,45566,C-2,Rapid Movement of Funds,T-16,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-2,45566,C-2,Rapid Movement of Funds,T-17,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-2,45566,C-2,Rapid Movement of Funds,T-20,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-2,A-2-2,45566,C-2,Rapid Movement of Funds,T-21,True Positive,No reasonable explanation for customer activity. Round dollar transaction unusual in normal course of business.
+A-3,A-3-1,45566,C-3,New Account Rule,T-22,False Positive,Customer explains he worked as a dealer for a Las Vegas gambling tournament and earned more than expected in tips. Funds sent to HK where the customer resides.
+A-3,A-3-1,45566,C-3,New Account Rule,T-23,False Positive,Customer explains he worked as a dealer for a Las Vegas gambling tournament and earned more than expected in tips. Funds sent to HK where the customer resides.
+A-3,A-3-1,45566,C-3,New Account Rule,T-29,False Positive,Customer explains he worked as a dealer for a Las Vegas gambling tournament and earned more than expected in tips. Funds sent to HK where the customer resides.
+A-3,A-3-2,45566,C-3,Cash Structuring $10k,T-22,False Positive,Customer explains he worked as a dealer for a Las Vegas gambling tournament and earned more than expected in tips. Funds sent to HK where the customer resides.
+A-3,A-3-2,45566,C-3,Cash Structuring $10k,T-23,False Positive,Customer explains he worked as a dealer for a Las Vegas gambling tournament and earned more than expected in tips. Funds sent to HK where the customer resides.
+A-5,A-5-1,45566,C-4,Large Wire to High Risk Jursidiction,T-30,True Positive,A-5-1: No reasonable explanation for moving funds. Round dollar transactions. 
+A-5,A-5-1,45566,C-4,Large Wire to High Risk Jursidiction,T-31,True Positive,A-5-1: No reasonable explanation for moving funds. Round dollar transactions. 
+A-5,A-5-1,45566,C-4,Large Wire to High Risk Jursidiction,T-32,True Positive,A-5-1: No reasonable explanation for moving funds. Round dollar transactions. 
+A-5,A-5-1,45566,C-4,Large Wire to High Risk Jursidiction,T-33,True Positive,A-5-1: No reasonable explanation for moving funds. Round dollar transactions. 
+A-5,A-5-2,45566,C-4,Large Wire to High Risk Jursidiction,T-34,False Positive,A-5-2: Expected activity of customer and expected country of business.

@@ -1,0 +1,62 @@
+---
+title: "SAR Regression Analysis"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook that has been developed to analyze the SAR grades for 54 SAR narratives develped using two LLM models, Llama 3.3 and DeepSeek R-1.
+
+```{r}
+#Import the data and review both the data and its summary
+ABC <- read.csv("Regression.csv")
+
+#Checking column names
+names(ABC)
+names(ABC)[names(ABC) == "ï..SAR_ID"] <- "SAR_ID"
+
+#Show the table
+head(ABC)
+```
+```{r}
+#Defining the following columns as Qualitative data
+ABC$SAR_ID <- as.factor(ABC$SAR_ID)
+ABC$Model_Type <- as.factor(ABC$Model_Type)
+ABC$Configuration_Level <- as.factor(ABC$Configuration_Level)
+ABC$Temperature <- as.factor(ABC$Temperature)
+```
+
+```{r}
+#Showing the summary statistics for the data
+summary(ABC)
+```
+
+```{r}
+#Running a regression on all available data
+ABC_regression <- lm(Total_Score ~ SAR_ID + Model_Type + Configuration_Level + Temperature, data = ABC)
+summary(ABC_regression)
+```
+
+```{r}
+#Defining the subset for configuration level 3
+subset_level3 <- subset(ABC, Configuration_Level == 3)
+
+#Running a regression just on data for Configuration Level 3
+ABC_regression_level3 <- lm(Total_Score ~ SAR_ID + Model_Type + Temperature, data = subset_level3)
+summary(ABC_regression_level3)
+```
+```{r}
+#Defining the subset for configuration level 3
+subset_deepseek <- subset(ABC, Model_Type == "DeepSeek")
+
+#Running a regression just on data for DeepSeek
+ABC_regression_deepseek <- lm(Total_Score ~ SAR_ID + Configuration_Level + Temperature, data = subset_deepseek)
+summary(ABC_regression_deepseek)
+```
+
+```{r}
+#Defining the subset for configuration level 3
+subset_llama <- subset(ABC, Model_Type == "Llama")
+
+#Running a regression just on data for DeepSeek
+ABC_regression_llama <- lm(Total_Score ~ SAR_ID + Configuration_Level + Temperature, data = subset_llama)
+summary(ABC_regression_llama)
+```
